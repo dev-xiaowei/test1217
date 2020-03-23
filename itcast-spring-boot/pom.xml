@@ -27,4 +27,5 @@
             <artifactId>spring-boot-starter-activemq</artifactId>
         </dependency>
     </dependencies>
+    <!--234-->
 </project>
